@@ -14,7 +14,7 @@ interact with nodes on the page? Well, we _listen_ for them!
 4.  Explain the difference between bubbling and capturing events
 5.  Demonstrate stopping propagated behaviors with `stopPropagation()`
 
-#### Instructions for In-Browser Learn IDE Users
+#### Instructions for In-Browser Learn IDE Users 
 
 If you are using the Learn IDE available in your browser, you will automatically
 clone down the files you need when you click 'Open IDE', but in order to view
